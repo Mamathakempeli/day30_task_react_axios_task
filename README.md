@@ -6,4 +6,4 @@ View a list of users with their details
 Update user data
 Delete user data from the list
 Live Demo
-Check out the live demo of the project: 
+Check out the live demo of the project: https://day30taskreactaxiostask.netlify.app/
